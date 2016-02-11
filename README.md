@@ -1,2 +1,3 @@
 # hello-world
-Just a starter repo.
+
+Hi humans I like to code my main languages are python and web languages. With plans to learn alot more.
